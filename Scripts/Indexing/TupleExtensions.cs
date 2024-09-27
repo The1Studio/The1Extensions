@@ -1,5 +1,5 @@
 ﻿#nullable enable
-namespace UniT.Extensions.Indexing
+namespace TheOne.Extensions.Indexing
 {
     using System;
     using System.Collections.Generic;

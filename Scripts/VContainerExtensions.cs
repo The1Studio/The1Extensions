@@ -5,7 +5,7 @@ namespace VContainer
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using UniT.Extensions;
+    using TheOne.Extensions;
     using UnityEngine;
     using VContainer.Internal;
     using VContainer.Unity;

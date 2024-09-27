@@ -1,6 +1,6 @@
 {
-  "name": "UniT.Extensions",
-  "rootNamespace": "UniT.Extensions",
+  "name": "TheOne.Extensions",
+  "rootNamespace": "TheOne.Extensions",
   "references": [
     "VContainer",
     "UniTask"
@@ -9,17 +9,17 @@
     {
       "name": "jp.hadashikick.vcontainer",
       "expression": "",
-      "define": "UNIT_VCONTAINER"
+      "define": "THEONE_VCONTAINER"
     },
     {
       "name": "com.cysharp.unitask",
       "expression": "",
-      "define": "UNIT_UNITASK"
+      "define": "THEONE_UNITASK"
     },
     {
       "name": "com.unity.nuget.newtonsoft-json",
       "expression": "",
-      "define": "UNIT_JSON"
+      "define": "THEONE_JSON"
     }
   ]
 }

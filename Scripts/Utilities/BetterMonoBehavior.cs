@@ -1,8 +1,8 @@
 ﻿#nullable enable
-namespace UniT.Extensions
+namespace TheOne.Extensions
 {
     using UnityEngine;
-    #if UNIT_UNITASK
+    #if THEONE_UNITASK
     using System.Threading;
     #else
     using System;
@@ -13,7 +13,7 @@ namespace UniT.Extensions
 
     public class BetterMonoBehavior : MonoBehaviour
     {
-        #if UNIT_UNITASK
+        #if THEONE_UNITASK
         private CancellationTokenSource? disableCts;
 
         public CancellationToken GetCancellationTokenOnDisable()

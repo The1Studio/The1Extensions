@@ -1,5 +1,5 @@
 #nullable enable
-namespace UniT.Extensions
+namespace TheOne.Extensions
 {
     using System.Diagnostics.CodeAnalysis;
 
