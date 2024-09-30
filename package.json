@@ -1,13 +1,8 @@
 {
-  "name": "com.frostbun.unit.extensions",
-  "displayName": "UniT Extensions",
+  "name": "com.theone.extensions",
+  "displayName": "TheOne Extensions",
   "description": "Common extension methods for Unity",
-  "version": "1.0.39",
+  "version": "1.0.0",
   "unity": "2022.3",
-  "license": "MIT",
-  "author": {
-    "name": "frostbun",
-    "email": "manhnb1911@gmail.com",
-    "url": "https://github.com/frostbun"
-  }
+  "license": "MIT"
 }
